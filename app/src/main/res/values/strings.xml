@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FastAssignmnt</string>
+    <string name="search_title">Search</string>
+    <string name="search_movies">Movies</string>
+    <string name="no_results">No results</string>
+    <string name="confirm">Confirm</string>
+</resources>
